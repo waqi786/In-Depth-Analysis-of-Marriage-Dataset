@@ -1,4 +1,4 @@
-# In-Depth-Analysis-of-Marriage-Dataset
+# In Depth Analysis of Marriage Dataset
 
 Overview:
 
